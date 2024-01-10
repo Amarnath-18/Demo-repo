@@ -1,2 +1,3 @@
 # Demo-repo
-This is my first repository.
+This is my first reposito
+Author: Amarnath Garai 
